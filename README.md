@@ -1,4 +1,4 @@
-# VirtualCurrency_buyAndSell_simulator
+# Virtual Currency Buy And Sell Simulator
 A simulator of virtual currency asset management program(develop by python)
 
 ## Why to write

@@ -1,6 +1,9 @@
 # VirtualCurrency_buyAndSell_simulator
 A simulator of virtual currency asset management program(develop by python)
 
+## Why to write
+I wrote it use for <b> NTUST's <i> 1071 Introduction of Big Data and Programming(TCG078301) </i> course </b> final project.
+
 ## introduction
 <b> &copy; ALL RIGHT RESERVED!!! You can fork and change some code, but don't use for commerical. &copy;</b>
 

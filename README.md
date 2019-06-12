@@ -4,7 +4,7 @@ A simulator of virtual currency asset management program(develop by python)
 ## Original usage
 I wrote it use for <b> NTUST's <i> 1071 大數據與程式設計導論 Introduction of Big Data and Programming(TCG078301) </i> course </b> final project.
 
-## Important
+## Copyright
 <b> &copy; ALL RIGHT RESERVED!!! You can fork and change some code, but don't use for commerical. &copy;</b>
 
 Some change you can see below ↓
